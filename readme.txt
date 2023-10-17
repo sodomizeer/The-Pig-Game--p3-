@@ -1,4 +1,4 @@
 # App Live Link : [https://piggygemm.netlify.app/]
 
-![Demo](1.jpg)
+![](1.jpg)
 
