@@ -76,7 +76,7 @@ btnHold.addEventListener('click', function () {
     //resetting Current Score
 
     //Check if score >= 100
-    if (scores[activePlayer] >= 10) {
+    if (scores[activePlayer] >= 100) {
       //Now to update CSS for winnnn
       document
         .querySelector(`.player--${activePlayer}`)
